@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Page d'accueil</title>
+</head>
+<body>
+	<h1>Bienvenue !</h1>
+	<ul>
+		<li><a href="#" onclick="alert('Tu es beau')">Majd</a></li>
+		<li><a href="#" onclick="alert('Tu es petit')">Ali</a></li>
+		<li><a href="#" onclick="alert('Tu es charmant')">Youssef</a></li>
+		<li><a href="#" onclick="alert('Tu es drôle')">Ismail</a></li>
+		<li><a href="#" onclick="alert('Tu es aigri')">Ziyad</a></li>
+	</ul>
+</body>
+</html>
